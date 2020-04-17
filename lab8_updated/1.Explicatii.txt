@@ -1,0 +1,7 @@
+
+	În primul  rând, am completat laboratorul trecut cu cele două funcții de căutare după nume și după id) 
+din clasele ArtistController și AlbumController.
+
+	Apoi, am abordat și parte aopțională. Am reușit să generez date cu Java Faker și am introdus acele date în tabelele
+artists si albums create săptămâna trecută. Totodată, am introdus și date în tabelul charts. Mai multe explicații am încercat
+să dau în cod.
