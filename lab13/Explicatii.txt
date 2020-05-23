@@ -1,0 +1,12 @@
+Pãdurariu Andreea, E1
+
+În primul rând, îmi cer din nou scuze pentru întârziere.
+Pentru laboratorul 13 am creat mai întâi douã clase (Messages si Messages_ro) care creeazã la rândul lor douã fisiere .properties
+cu proprietãtile specificate în enunt.
+
+Apoi, în clasa SetLocale am fãcut o func?ie care primeste ca parametru o variabilã de tip locale si o returneazã dupã ce a fost
+initializatã cu tara si limba aleasã. În acelasi timp, se apeleazã si functia setDefault care seteazã ca default o nouã limbã si tarã.
+Astfel încât, limba în care sunt afisate informatiile în clasa info sunt stabilite de setDefault, iar tara la care fac referire informatiile 
+este stabilitã de new Locale().
+
+În clasa info am afisat informatii precum tara, limba, moneda, zilele sãtãmânii, lunile anului.
